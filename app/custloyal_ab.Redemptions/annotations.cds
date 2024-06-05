@@ -1,0 +1,1 @@
+using custloyal_abSrv as service from '../../srv/service';
